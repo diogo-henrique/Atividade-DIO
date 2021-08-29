@@ -1,0 +1,18 @@
+0
+Acao
+essa serie foi escrita externamente
+essa serie deve estar excluida
+True
+1205
+1
+Acao
+corrigida
+co emi dask e mo
+True
+987
+2
+Drama
+Serie escrita no programa
+essa série foi escrita em runtime
+False
+123456
